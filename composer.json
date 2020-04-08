@@ -1,0 +1,14 @@
+{
+    "name": "chenqi/learn",
+    "description": "learn composer and github",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "chenqi",
+            "email": "872029501@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
